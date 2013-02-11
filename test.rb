@@ -4,3 +4,8 @@ end
 
 
 w=["WHATEV", "BRAH"]
+
+
+
+w.each |boobies|
+  puts boobies
